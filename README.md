@@ -1,3 +1,4 @@
+![BuildStatus](https://github.com/aanicolella/final-nn/actions/workflows/tests.yml/badge.svg?event=push) 
 # Final project: neural network
 
 ## Overview
